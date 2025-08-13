@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "breizh-travel-vtc",
+  "private_key_id": "10a7665e7b0ea7d665f2f4ba6079e706ef1075ae",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCuC1L4uiWZufZb\nLkEMVlXZndeN1MT/w4dvzRDHTFBN2rEKJGAcHgSaMS8DGMWL976OFL6JK7rFLXv5\niEZWLjVia27xGdUj0ofzl7bW3Hv9NFtFeO9ahrRW3RfUJxCthhrLI2r+13Yx9YfM\nOMTB3fqkf04CJJsCQ+0vFuEq7t6KboBH+8V5kWrEqxoNfgVyLNgpnCEO3R9mbBfV\n0wiRmzwRk6yU3S+4KR7mSN09dBSKRhHjGg8ADzid3b3g5BqSJuGO2NLjPWdTmQDm\n8Rk/RCmvv4ORn9M/7Gi7Vkc/t96/YGKK+LbtGi5e+5YADkRRnFWAwbW08CZ4Yktf\nOXj6FcUxAgMBAAECggEACqduLsRH3hZDd7tQD3EXSCcUuXWecdTqhPg31EhmU868\n5szZXo1CnT0AposRGDdsKHrJ+2AEOtLlB35dZmQFn/LJR7xr5wmJqZpmXpaghyxp\n4CnGFqu/bUATZ+j0iRfICvp9/6/JOCeSZpisyDyWPdS+beyHWeMWOUtIcTouQKln\nR79TRBTVy/HFvP5nUxbSjGn6DwckTu1HnWTOza0vs2ODXbjxkJtnHo77cKcK2ABs\n7NO3uHU1AWoSpcJfgX3KkNOWYHbFKIpTT3aFQELkK1H9u+LOqL9gR8yrgB3bikoo\nso2IW9Zvbe5BMwsKUrhwujhnSsSf7XUgpU3/BKztwQKBgQDbPzxDx/Vj8TiY9YAu\nQTB6+PYOA+bjDheLqx/QM5tWACDvSSjv6QhZHtBVkE8mF6Y56uEohCUjDH+YdRxS\n3n03CdsB1jfctktlzu2MpE7kEBFck9rQ/xVN8QdNp8zmP+vqDWE3dB0urO8LM9ky\nEQg5IRZIfHej+q8uKjNpuYBHQQKBgQDLOEHMCEBLGjnQ5J08zLyHGWE8RM5jTDBA\nhehd2n4cHqbKF0JX3uxmlzwZvIQYOsOdW8l/jog0IkE/YAefYa2H8SuSjVlp+JMc\nMbBZaA4orwVNsFn/eFFzFhZ/oZoy/eB7A3pJLmXR9pAY7EPqgD7k0cnKzBmgGzYD\nTtWZGB9x8QKBgBXctV6w5rhDing+KrzyBSqN/sMhAnnros9rje2N59RoiOAzdGCP\n5SQ13WJa1Hmg7BNkZ3VJ0AYxrdt++gcNZoEBe5QwTzuz9cq+GpPmonM9Yu3PVId4\nmCBAg5DrxZPEFfstwF7uNia8Wc3NKsBCUIaZ1QX/W1K/oY5B6QSG2dLBAoGBAJRT\nWWLsWtD2MWDQnBt2a9xHn/r3VZSQVV+i3TkzcnxfuukiFOBB61Xt6IX4XIm6ynAe\nQHIDvFIg9nKlSqsABkKEuoLa/HomXmljsw1ur3buV/aeUvHuBbT0WDOL5hp1xtTC\ncwza+qJHTmGCgQe11zH4FUsZsVJ0yfWcIrb9LmZhAoGAEGWhCm9ucgCTubFu9TxC\nuPqHWZb81Ojun7011RSkQ/K5b72tlLO9ZUZzHt+7ndcMzq0Y+CiCch7kSbBLc41K\nRWApmGU8Clf8LJE+lxqhGJINdekt0K99CZXxtAQsQXGGwaqiTQAqWIEP9FLR/ZyW\nOTgzBBJRtTQ46J+jGCoM0X0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "breizh-travel-acc@breizh-travel-vtc.iam.gserviceaccount.com",
+  "client_id": "115163108290639557271",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/breizh-travel-acc%40breizh-travel-vtc.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
